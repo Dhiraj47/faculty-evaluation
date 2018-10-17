@@ -1,5 +1,5 @@
 # faculty-evaluation
-UNIVERSITY LOGO HAS BEEN CHANGED...
+NOTE- UNIVERSITY LOGO HAS BEEN CHANGED...
 
 ‘IQAC Student’s Evaluation of Faculty’ is a dynamic web application for the online processing of data collected from students regarding the faculties’ performance in the individual courses they have taken and its visualization. To develop this application we have used web application tools like HTML and styling tools like CSS and BOOTSTRAP, front-end languages like JAVASCRIPT and CANVASJS for rendering Charts, back-end language like PHP and a database MySQL.
 
